@@ -114,7 +114,7 @@ $(function(){
 	var colorData="#DF5D45";//默认颜色
 
 	$(".t_skin").click(function(){
-		$(".prop_skin").animate({top:'0'},1000);
+		$(".prop_skin").animate({top:'0'},500);
 	});
 	$(".hide_Skin").click(function(){
 		HideSkin();
@@ -123,9 +123,9 @@ $(function(){
 		colorData = $(this).attr("data-color");
 		ChangeSkin(colorData);
 	});
-	
+
 	function HideSkin(){
-		$(".prop_skin").animate({top:'-100%'},1000);
+		$(".prop_skin").animate({top:'-100%'},500);
 	}
 
 	function ChangeSkin(Color){
