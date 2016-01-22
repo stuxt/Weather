@@ -29,8 +29,8 @@ body{
 .prop_skin li.color-2969E7{ background-color: #2969E7;}
 .prop_skin li.color-6BBEAC{ background-color: #6BBEAC;}
 .prop_skin li.color-8663B7{ background-color: #8663B7;}
-
-.warp{ background-color: #8663B7; text-align: center; position: relative; z-index: 1;}
+/*换肤弹窗 end*/
+.warp{ background-color: #DF5D45; text-align: center; position: relative; z-index: 1;}
 
 .top_info{ font-size: .2rem; height: .2rem; padding: .1rem 0; border-bottom: 1px rgba(255,255,255,.4) solid;}
 .top_info a{ color: #fff; padding: 0 .1rem;}
