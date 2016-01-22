@@ -22,7 +22,7 @@ body{
 .ps_title{ font-size: .2rem; text-align: center; padding: .1rem 0; border-bottom: 1px #eee solid; overflow: hidden;}
 .ps_title a{ float: right; padding: 0 .05rem; background-color: #eee; border-radius: 50%;}
 .prop_skin ul{ width: 80%; margin: .2rem auto; }
-.prop_skin li{ width: 100%; height: .3rem; background-color: #eee; margin: .1rem auto; border:2px #fff solid;}
+.prop_skin li{ width: 100%; height: .4rem; background-color: #eee; margin: .1rem auto; border:2px #fff solid;}
 .prop_skin li.color-DF5D45{ background-color: #DF5D45;}
 .prop_skin li.color-21B384{ background-color: #21B384;}
 .prop_skin li.color-C58104{ background-color: #C58104;}
@@ -36,7 +36,6 @@ body{
 .top_info a{ color: #fff; padding: 0 .1rem;}
 .top_info a.t_address{ float: left; }
 .top_info a.t_skin{ float: right; }
-.cityname{}
 .dtime{ font-size: .12rem; padding: .1rem 0 .2rem 0; color: rgba(228, 228, 228, 0.73);}
 .temp_info{ font-size: .32rem; padding: .5rem 0 .6rem 0;}
 .air_wind{ font-size: .16rem; padding-bottom: .3rem; border-bottom: 1px solid rgba(255,255,255,.4);}
